@@ -50,7 +50,10 @@ Customizable for Any Institution
 User-Friendly UI
 
 -Clean and responsive interface using React, TailwindCSS, and MUI
-📌 About the Project This project was inspired by the growing need for small and mid-sized educational institutions to go digital without complex software. It’s designed for simplicity, usability, and effectiveness — particularly targeting local educational institutions in Tamil Nadu. It’s already used by a leading tuition center in our district, helping them improve fee collection, reduce manual errors, and communicate efficiently with parents.
+
+📌 About the Project 
+
+This project was inspired by the growing need for small and mid-sized educational institutions to go digital without complex software. It’s designed for simplicity, usability, and effectiveness — particularly targeting local educational institutions in Tamil Nadu. It’s already used by a leading tuition center in our district, helping them improve fee collection, reduce manual errors, and communicate efficiently with parents.
 
 🤔 Why Use Smart Tuition Management? Reduces manual paperwork and errors
 
@@ -62,6 +65,7 @@ Helps understand and grow financially through reporting
 
 Scales easily for small to large institutions
 
-🧾 Conclusion Smart Tuition Management is more than just a tool — it’s a complete system to empower tuition centers and schools to operate smartly and grow sustainably. Built with modern web technologies, it ensures every user — from admin to student — gets a seamless experience.
+🧾 Conclusion 
+Smart Tuition Management is more than just a tool — it’s a complete system to empower tuition centers and schools to operate smartly and grow sustainably. Built with modern web technologies, it ensures every user — from admin to student — gets a seamless experience.
 
 🏅 Trusted By This software is actively used by a renowned tuition center in our district to manage over 200+ students, helping them scale efficiently and financially.
